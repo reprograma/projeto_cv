@@ -518,6 +518,7 @@ li:before{
   letter-spacing: 0.0121429em;
   color: #4F4F4F;
   margin-top: -70px;
+  max-width: 362px;
 }
 @media only screen and (max-width: 414px)  {
   .titles {
