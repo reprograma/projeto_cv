@@ -392,10 +392,10 @@ li:before{
 
 .profile-info {
   margin-left: 6%;
-  margin-top: 95px;
+  margin-top: 62px;;
   width: 315px; 
   font-weight: 500;
-  font-size: 18px;
+  font-size: 16px;
   color: #4F4F4F;
 }
 @media only screen and (max-width: 1024px)  {
