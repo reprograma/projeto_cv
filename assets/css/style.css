@@ -466,7 +466,7 @@ li:before{
 }
 @media only screen and (max-width: 414px)  {
   #work {
-    width: 85%;
+    width: 80%;
   }
 }
 
@@ -518,9 +518,10 @@ li:before{
 }
 @media only screen and (max-width: 414px)  {
   .titles {
+    font-size: 20px;
     padding-top: 15px;
     line-height: 50px;
-    font-size: 20px;
+    width: 300px;
   }
 }
 
@@ -591,7 +592,7 @@ li:before{
 }
 
 #interests>ul>div>p {
-  width: 70%;
+  width: 55%;
   float: right;
   margin-top: -3%;
 }
@@ -656,6 +657,7 @@ li:before{
   }  
 }
 .skill-itens {
+  padding-bottom: 60px;
   width: 35%;
 }
 @media only screen and (max-width: 1024px)  {
