@@ -1,4 +1,3 @@
-
 /* Webfont: Lato-Regular */@font-face {
     font-family: 'LatoWeb';
     src: url('../fonts/Lato-Regular.eot'); /* IE9 Compat Modes */
@@ -148,8 +147,8 @@ hr {
   margin-top: 45px;
 }
 
-.students>div>div>a, 
-.students>div>div>div>a{
+.students>div>div>a,
+.students>div>div>div>a {
   display: block;
   font-size: 18px;
   padding-top: 22px;
@@ -170,7 +169,7 @@ hr {
   width: 15%;
 }
 @media only screen and (max-width: 768px)  {
-  .entry {
+  .entry{
     margin: auto;
     padding: 15px;
     width: 45%;
@@ -202,7 +201,6 @@ hr {
   width: 80%;
   margin-right: auto;
   margin-left: auto;
-
 }
 @media only screen and (max-width: 768px)  {
   #list {
@@ -219,7 +217,6 @@ hr {
   padding-top: 165px;
   position: absolute;
 }
-
 .last-row {
   display: block;
   float: left;
@@ -518,7 +515,6 @@ li:before{
   letter-spacing: 0.0121429em;
   color: #4F4F4F;
   margin-top: -70px;
-  max-width: 362px;
 }
 @media only screen and (max-width: 414px)  {
   .titles {
@@ -578,7 +574,9 @@ li:before{
   display: block;
   float: left;
 }
-
+#interests>ul>div>li>.titles {
+  max-width: 360px;
+}
 @media only screen and (max-width: 414px)  {
   #interests>ul>div {
     display: flex;
@@ -721,5 +719,3 @@ li:before{
 .no-skill {
   background-color: #ffffff;
 }
-
-
